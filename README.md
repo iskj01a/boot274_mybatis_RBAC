@@ -1,2 +1,2 @@
 # boot274_mybatis_RBAC
-RBAC demo
+SpringBoot274 jdk8 mybatis RBAC demo
